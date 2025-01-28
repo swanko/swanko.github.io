@@ -6,5 +6,21 @@
     {
         "name": "nike",
         "slug": "nike"
+    },
+    {
+        "name": "old school",
+        "slug": "old-school"
+    },
+    {
+        "name": "rich mnisi",
+        "slug": "rich-mnisi"
+    },
+    {
+        "name": "puma",
+        "slug": "puma"
+    },
+    {
+        "name": "thesis lifestyle",
+        "slug": "thesis-lifestyle"
     }
 ]
